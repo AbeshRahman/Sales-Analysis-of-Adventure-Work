@@ -3,7 +3,7 @@
 ## Project Overview
 This project features an interactive **Sales Analysis Dashboard** built in **Microsoft Excel** using the **Adventure Works dataset**. The primary goal was to transform raw transactional data into a dynamic visual tool that delivers actionable business insights into sales performance, customer segments, and regional trends.
 
-The project demonstrates the power of Excel’s advanced data modeling capabilities, moving beyond static spreadsheets to a scalable business intelligence solution.
+The project demonstrates the power of Excel’s advanced data modeling capabilities, moving beyond statical spreadsheets to a scalable business intelligence solution.
 
 ## Key Features & Insights
 The dashboard provides both high-level KPIs and detailed analytical views:
