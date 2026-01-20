@@ -39,5 +39,5 @@ The Project Consists Of Two Reports. Those Reports looks like this:
 1. Detailed Dashboard Sales Analysis
 2. Time Series Dashboard Sales Analysis
 
-![Dashboard Preview]()
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/AbeshRahman/Sales-Analysis-of-Adventure-Work/blob/main/Time%20Series%20Dashboard%20Sales%20Analysis.png)
+![Dashboard Preview](https://github.com/AbeshRahman/Sales-Analysis-of-Adventure-Work/blob/main/Detailed%20Dashboard%20Sales%20Analysis.png)
